@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.253aac0a.css",
+    "main.js": "/React-Portfolio/static/js/main.1c5feed1.js",
+    "static/media/project 1 pic.png": "/React-Portfolio/static/media/project 1 pic.b61d9346f81c413efee1.png",
+    "static/media/personal.PNG": "/React-Portfolio/static/media/personal.3a4c35c2fd6645d16c52.PNG",
+    "static/media/categories.png": "/React-Portfolio/static/media/categories.508746b06c8aed582bca.png",
+    "static/media/weather-app.png": "/React-Portfolio/static/media/weather-app.70426f3bd6e9260c421a.png",
+    "static/media/note-taker.png": "/React-Portfolio/static/media/note-taker.eb25364b1ed53aeba395.png",
+    "static/media/work-day.png": "/React-Portfolio/static/media/work-day.4df5b7c8c2f924c15e86.png",
+    "static/media/employee-tracker.png": "/React-Portfolio/static/media/employee-tracker.e8ed0a5d7eff0eceba2c.png",
+    "static/media/My_Resume.pdf": "/React-Portfolio/static/media/My_Resume.75bdeaf2062fcbfc47c5.pdf",
+    "static/media/download.jpeg": "/React-Portfolio/static/media/download.a2fa0d1d0809dac15d1b.jpeg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.253aac0a.css.map": "/React-Portfolio/static/css/main.253aac0a.css.map",
+    "main.1c5feed1.js.map": "/React-Portfolio/static/js/main.1c5feed1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.253aac0a.css",
+    "static/js/main.1c5feed1.js"
+  ]
+}
