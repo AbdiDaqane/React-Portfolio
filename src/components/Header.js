@@ -1,9 +1,10 @@
 import React from 'react'
-import AnimatedText from 'react-animated-text';
+import AnimatedText from 'react-animated-text-content';
 
 const Header = ({ title }) => {
   return (
     <header className='Header'>
+      <div className='Animation'>
         <AnimatedText
   type="words" // animate words or chars
   animation={{
@@ -21,8 +22,9 @@ const Header = ({ title }) => {
   threshold={0.1}
   rootMargin="20%"
 >
-  Content to animate
-</AnimatedText>;
+  { title }
+</AnimatedText>
+</div>
     </header>
   )
 }

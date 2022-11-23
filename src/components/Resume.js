@@ -1,6 +1,6 @@
 import React from 'react'
 import download from '../img/download.jpeg';
-import resume from '../documents/Fake-Resume.pdf';
+import resume from '../documents/My_Resume.pdf';
 
 const Resume = () => {
   return (
